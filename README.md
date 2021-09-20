@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChhayaTamang33
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning data analysis as a extra course 
+- 👀 I’m interested in coding and learning new things.
+- 🌱 I’m currently learning data analysis as a extra course. 
 - 💞️ I’m looking to collaborate on learning R
 - 📫 chhayatam33@gmail.com
 
