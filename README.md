@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChhayaTamang33
 - 👀 I’m interested in coding and learning new things.
-- 🌱 I’m currently learning data analysis as a extra course. 
-- 💞️ I’m looking to collaborate on learning R
+- 🌱 I’m currently learning more on desigining and web development
+- 💞️ I’m looking to collaborate on learning django
 - 📫 chhayatam33@gmail.com
 
 <!---
